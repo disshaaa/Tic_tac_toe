@@ -55,3 +55,6 @@ tic_tac_toe:
 
 ## 📃 License
 This project is licensed under the MIT License. Feel free to use and modify it as you like!
+
+---
+⭐ Star this repo if you found it useful!
