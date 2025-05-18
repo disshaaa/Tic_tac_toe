@@ -20,10 +20,10 @@ This game allows two players to take turns playing Tic Tac Toe on a 3x3 grid. Th
 
 
 ## 📂 File Structure
-tic_tac_toe_gui/
-│
-├── tic_tac_toe_gui.py # Main source code
-├── README.md # Project documentation
+tic_tac_toe:
+  - tic_tac_toe_gui.py  # Main source code
+  - README.md           # Project documentation
+
 
 
 ## 🚀 How to Run
