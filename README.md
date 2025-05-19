@@ -20,8 +20,8 @@ This game allows two players to take turns playing Tic Tac Toe on a 3x3 grid. Th
 
 
 ## 📂 File Structure
-tic_tac_toe:
-  - Tic_tac_toe.py  # Main source code
+Tic_tac_toe:
+  - tic-tac-toe.py  # Main source code
   - README.md           # Project documentation
 
 
@@ -40,7 +40,7 @@ tic_tac_toe:
    cd Tic_tac_toe
 2. Run the game:
    ```bash
-   python Tic_tac_toe.py
+   python tic-tac-toe.py
 
 ## 🛠️ How It Works
 - The game uses a 2D list (self.board) to keep track of the state.
